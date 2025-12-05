@@ -22,7 +22,7 @@ title: Futbol Total
 email: ehalloumie01@educantabria.es
 description: >- # this means to ignore newlines until "baseurl:"
   Blog sobre fútbol, noticias, análisis de partidos y curiosidades del mundo del balón.
-baseurl: "/futboltotal" # the subpath of your site, e.g. /blog
+baseurl: "/minima" # the subpath of your site, e.g. /blog
 url: "https://github.com/eliasxvv16" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eliasxvv16
 github_username:  eliasxvv16
